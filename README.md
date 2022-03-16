@@ -1,0 +1,5 @@
+# Coding for UX Designers
+
+Copyright C 2022 by Hillodesign All rights reserved.In accordance with the U.S. Copyright Act of 1976, the scanning, uploading, and electronic sharing of any part of this book without the persmission of the punblisher constitute unlawful piracy and theft of the author's intellectual property. If you would like to use material from the book (other than for review purposes), prior written permission must be obtained by contacting the publisher at jaemin@hillodesign.com. Thank you for your support of the author's rights.
+
+## Are you a designer looking to understand coding? Why is coding relevant for UI/UX Designer and what kind of frameworks and libraries do you need to be aware of while working on cross-functional teams? Are you interested in learning about cross platform and mobile responsive design patterns based on industry leading tech stacks such as Bootstrap, Material Design, Angular, React.JS?
